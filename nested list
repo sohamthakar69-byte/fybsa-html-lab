@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Practical 3 - Nested List</title>
+</head>
+<body>
+
+<h2>Categories of Fruits and Vegetables</h2>
+
+<ul>
+    <li>Fruits
+        <ul>
+            <li>Apples</li>
+            <li>Oranges</li>
+            <li>Bananas</li>
+        </ul>
+    </li>
+
+    <li>Vegetables
+        <ul>
+            <li>Carrots</li>
+            <li>Broccoli</li>
+            <li>Spinach</li>
+        </ul>
+    </li>
+</ul>
+
+</body>
+</html>
