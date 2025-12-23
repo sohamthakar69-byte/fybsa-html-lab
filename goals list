@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Practical 5 - Goals List</title>
+</head>
+<body>
+
+<h2>My Personal Goals</h2>
+
+<ol>
+    <li>Personal Development
+        <ul>
+            <li>Read at least 5 books</li>
+            <li>Practice meditation daily</li>
+        </ul>
+    </li>
+
+    <li>Career Goals
+        <ul>
+            <li>Complete an online course in web development</li>
+            <li>Get promoted at work</li>
+        </ul>
+    </li>
+</ol>
+
+</body>
+</html>
