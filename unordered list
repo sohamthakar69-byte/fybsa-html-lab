@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Practical 2 - Unordered List</title>
+</head>
+<body>
+
+<h2>Shopping List</h2>
+
+<ul>
+    <li>Milk</li>
+    <li>Bread</li>
+    <li>Eggs</li>
+    <li>Cheese</li>
+    <li>Vegetables</li>
+</ul>
+
+</body>
+</html>
