@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+<body style="background-color: green; color: red;">
+
+<marquee>
+    <h1>My First Web Page</h1>
+</marquee>
+
+<hr>
+
+<p>
+    <b>Name: Avani Dashpute</b><br>
+    <i>Address: Pune, Maharashtra</i><br>
+    <u>Qualification: Engineering Student</u>
+</p>
+
+<p style="font-family: Verdana; font-size: 20px;">
+    <b>Your Goals in Life</b><br>
+    My goal is to become successful, improve my skills,
+    support my family, and live a happy life.
+</p>
+
+</body>
+</html>
